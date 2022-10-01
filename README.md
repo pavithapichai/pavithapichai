@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Pavitha ,am Software Engineer with 6+ years of experiance. designed and implemented applications in android and IoT
+- 👀 I’m interested in Android, IoT and Distributed Systems...
+- 🌱 I’m currently learning Serverless, Microservices ,...
+- 📫 How to reach me @ [LinkedIn](https://www.linkedin.com/in/pavithapichaimani25/)...
+
+<!---
+pavithapichai/pavithapichai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
