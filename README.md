@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pavitha ,am Software Engineer with 6+ years of experience in android development. designed and built various applications in android and IoT
-- 👀 I’m interested in designing database and building system for scalable applications..
-- 🌱 I’m currently learning How to design data intensive applications ,Serverless architecture, Microservices ,...
+- 👋 Hi, I’m Pavitha , Software Engineer with 6+ years of experience in android development. designed and built various applications in android and IoT
+- 👀 I’m interested in designing and building scalable applications..
+- 🌱 I’m currently learning How to design data intensive applications, Serverless architecture, Microservices ,...
 - 📫 reach me @ [LinkedIn](https://www.linkedin.com/in/pavithapichaimani25/)...
 
 <!---
